@@ -1,0 +1,25 @@
+#game-canvas{
+    height: 600px;
+    margin-right: 0px;
+    margin-left: 400px;
+}
+
+#scoreboard{
+    height: 50px;
+    margin-right: 0px;
+    margin-left: 400px;
+    padding: 8px;
+    width: 25%;
+    background-color: blueviolet;
+}
+
+#up{
+    height: 50px;
+    margin-right: 0px;
+    margin-left: 400px;
+    width: 15%;
+    background-color: blueviolet;
+    padding: 8px;
+}
+
+
